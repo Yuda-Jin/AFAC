@@ -52,3 +52,7 @@ htmlcov/
 .coverage.*
 coverage.xml
 *.cover 
+
+# 数据集
+样例集/
+测试 A 集/ 
